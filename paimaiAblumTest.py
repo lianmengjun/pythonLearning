@@ -1,6 +1,5 @@
 import re, bs4, requests
 
-
 print('please input the sellID (like 2355097081):')
 sellID = input()
 # sellID = '2355097081'
